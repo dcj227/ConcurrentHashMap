@@ -1,0 +1,2 @@
+# dcLocalCache
+local cache
